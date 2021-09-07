@@ -1,6 +1,6 @@
 # ibc-transactions-for-kichain
 
-!(https://ibb.co/KzkfB1S)
+![Kichain](https://i.ibb.co/RQybxsm/2021-09-07-21-22-01.png)
 
 In this guide we will go though the process of setting up a Relayer and sending tx's with IBC. 
 Repeater node is set up on Rizon node. You can also set it on the Kichain node, or remote node but you need access to both nodes.
@@ -123,4 +123,4 @@ rly tx transfer kichain-t-3 groot-011 1000000utki rizon17709aq0l4mzw5vh54f7rj4zw
 https://ki.thecodes.dev/tx/0FCBF06FEE26D9B1051D12E89F344A0E9F4118B77C894DAD58A69F5C1C731474
 https://ki.thecodes.dev/tx/60BB5EC3CDEFCF9B3ACD550E0763B018BFE91D5769F8926F1D1578A8963498C2
   
-We have performed IBC transaction between Rizon and Kichain blockchains.
+We have gone through the process of sending IBC transactions with Rizon and Kichain blockchains.
