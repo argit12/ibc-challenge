@@ -1,5 +1,7 @@
 # ibc-transactions-for-kichain
 
+!(https://ibb.co/KzkfB1S)
+
 In this guide we will go though the process of setting up a Relayer and sending tx's with IBC. 
 Repeater node is set up on Rizon node. You can also set it on the Kichain node, or remote node but you need access to both nodes.
 
